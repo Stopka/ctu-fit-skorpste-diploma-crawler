@@ -1,0 +1,14 @@
+Na vývoji USB-C spolupracovali inženýři z Applu, Intelu i Googlu
+
+Autor: Karel JavůrekKarel Javůrek Vytisknout vytisknout  |  textová verze  |  velikost písma  ++++++
+Nový standard USB-C, který umožňuje oboustranné použití a poskytuje prostor pro napájení i rychlý přenos dat, včetně alternativního módu pro Displayport, byl výsledkem spolupráce inženýrů z mnoha velkých společností.
+
+ Apple | Hardware | Notebooky
+Nový MacBook: supertenký notebook, který boří mýty
+Podle informací Johna Grubera a webu MacRumors Apple přišel s novým standardem sám (měl zkušeností s Lightningem, který se používá pro zařízení s iOS), ale pro větší rozšíření se spojil i s dalšími a veřejně se tím nechlubí.
+
+459862-what-is-usb-c.jpg
+USB-C je malý a tenký konektor, který funguje oboustranně a podporuje rozhraní USB, napájení i Displayport a HDMI
+V oficiální zprávě je výpis inženýrů, kteří se na novém standardu podíleli, rozdělen poměrně přesně. Apple do projektu zapojil 18 inženýru, Intel 24 inženýrů, Microsoft 16, Google 10 a nejméně pak Dell (5) a HP (6). Na standardu se menším dílem podílely i jiné společnosti jako třeba AMD, Displaylink a další.
+
+Apple byl první, kdo notebook, respektive MacBook s USB-C uvedl, hned poté se ale objevil i Google s novým Chromebookem Pixel 2. Další zařízení s USB-C tak můžeme ve velkém očekávat v průběhu roku. Více na: http://www.zive.cz/bleskovky/na-vyvoji-usb-c-spolupracovali-inzenyri-z-applu-intelu-i-googlu/sc-4-a-177542/default.aspx#utm_medium=selfpromo&utm_source=zive&utm_campaign=copylink

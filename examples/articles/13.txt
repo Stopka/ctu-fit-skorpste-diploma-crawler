@@ -1,0 +1,12 @@
+Windows 10 bude úsporný. Ušetří gigabajty prostoru
+
+Autor: Jakub ČížekJakub Čížek Vytisknout vytisknout  |  textová verze  |  velikost písma  ++++++
+V případě Windows odjakživa platilo, že každá nová verze OS vyžadovala více prostoru na pevném disku. Začalo se to měnit až s příchodem Windows 8.x a nové Desítky jsou opět o kus úspornější. Systém už totiž zdaleka neběží jen na velkých plotnových discích domácích desktopů, ale také na tabletech a noteboocích s relativně malou jednotkou SSD, kde jde o každý gigabajt.
+
+Microsoft se nyní na svém blogu rozepsal, jak na úspoře místa zapracoval v připravovaném Windows 10. Systém je úspornější, protože si už nevytváří skrytý diskový oddíl pro obnovu a zároveň používá lepší techniku komprese systémových souborů.
+
+Díky odstranění oddílu pro obnovu dále Windows 10 ušetří podle konkrétního počítače od 4 GB do 12 GB prostoru a to je už poměrně solidní úspora. A s lepší kompresí pak 32bitový Windows 10 ušetří asi 1,5 GB a 64bitová verze až 2,6 GB prostoru, což je na 64/128GB SSD/flash jednotce tabletu poměrně zajímavá informace. Tato komprese se ostatně týká i mobilní verze Windows 10, kde bude hlad po prostoru ještě silnější.
+
+78489905
+64bitový Windows 10 v průměru ušetří okolo 6,6 GB prostoru
+Podobná úspora se ale nebude týkat každého počítače. Komprese je přeci jen náročný proces, který zatěžuje CPU, Windows 10 tedy bude komprimovat pouze ty soubory, kde se to vyplatí. A vyplatí se to zejména tehdy, pokud bude mít počítač dostatek RAM, do které se vlezou všechna klíčová systémová data. Právě tyto soubory načtené v paměti pak může operační systém na persistentním úložišti komprimovat, protože k nim systém nepřistupuje tak často. Více na: http://www.zive.cz/bleskovky/windows-10-bude-usporny-usetri-gigabajty-prostoru/sc-4-a-177550/default.aspx#utm_medium=selfpromo&utm_source=zive&utm_campaign=copylink

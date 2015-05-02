@@ -1,0 +1,19 @@
+Policie varuje před škodlivou aplikací, uživatelům „vysává účty“
+17. března 2015  13:23
+Jihomoravská policie v úterý varovala před novým způsobem šíření škodlivého viru na mobilní telefony. Podvodníci se díky podvodným aplikacím dostali k přihlašovacím údajům k internetovému bankovnictví a uživatelům „vysáli“ z účtů peníze. V jednom případě to byla částka přesahující milion korun.
+(Ilustrační snímek)
+(Ilustrační snímek) | foto:  Tomáš Krist, MAFRA
+Ačkoli policisté varují „před novým způsobem šíření“, scénář je to vždy podobný a neobejde se bez zapojení samotného uživatele. „Uživatel PC se nemůže běžně přihlásit buď ke svému e-mailovému nebo facebookovému účtu. Při přihlašování je po něm vyžadováno, aby si do svého chytrého mobilního telefonu stáhnul security aplikaci, která bude obsahovat vstupní kód pro přihlášení,“ popisuje praxi krajská policejní mluvčí Petra Vedrová.
+
+Nedopadněte jako hollywoodské celebrity, chraňte svá data v mobilu
+Policisté se podle ní několikrát setkali s aplikací SeznamOTP.apk a FacebookOTP.apk. „Po stažení do telefonu už je e-mailová pošta i sociální síť přístupná a zdánlivě se pro uživatele nic neděje. Touto cestou se však do mobilu infiltruje škodlivý virus, díky kterému získají podvodníci i přístupové údaje k internetovému bankovnictví,“ uvádí policejní mluvčí.
+
+Podvodníkům, kteří za škodlivým kódem stojí, se podle Vedrové podařilo takto získat už „nemalé finanční částky“. „V jednom případě se jim podařilo převést na své účty přes sto tisíc, v posledním zjištěném případě dokonce z účtu vysáli více než milion korun,“ vypočítala zatím zjištěné škody policejní mluvčí.
+
+Po pachateli či pachatelích pátrají kriminalisté zabývající se informační kriminalitou. „Uživatelům důrazně doporučují, aby si v případě, že se jim nedaří přihlásit k e-mailu nebo účtu sociální sítě a objeví se jim výzva ke stažení aplikace do telefonu, rozhodně nic nestahovali. Samozřejmostí by měla být i kvalitní antivirová ochrana počítače,“ dodala Vedrová.
+
+Moderní chytré telefony se stávají terčem útočníků stále častěji. Útočníci při tom spoléhají na neznalost uživatelů. Bez jejich aktivního přispění totiž škodlivý kód prakticky nemá možnost se do mobilu dostat. Ke zmatení lidí pak často slouží právě zdánlivé zablokování účtů a další podobné triky, na jejichž základě si majitelé mobilů do přístrojů bezhlavě škodlivou aplikaci sami nainstalují.
+
+Kromě takzvaných trojských koní, které otevírají útočníkům pomyslnou bránu do nitra mobilního přístroje a umožňují získávat důvěrná data, se objevují i první případy škodlivého malwaru. Tento typ se objevil například loni na Ukrajině. Virus nazvaný Simplocker zašifroval všechny soubory na paměťové kartě a za její odemknutí pak museli uživatelé zaplatit.
+
+Zdroj: http://mobil.idnes.cz/virus-mobilni-telefon-06f-/mob_tech.aspx?c=A150317_130352_mob_tech_hro#utm_source=sph.idnes&utm_medium=richtext&utm_content=top6

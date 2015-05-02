@@ -1,0 +1,74 @@
+Vyzkoušeli jsme nejnovější uniklý build Windows 10
+
+Autor: Jakub ČížekJakub Čížek Vytisknout vytisknout  |  textová verze  |  velikost písma  ++++++
+Microsoftu se stále nechce uvést nové testovací sestavení Windows 10. Komunita to už nevydržela a o víkendu se na pirátské sítě dostalo interní sestavení 10036. Podívejte se, co umi.
+
+Tak dlouho Microsoft otálel s uvedením nového veřejného sestavení Windows 10 Technical Preview, až to za něj udělala komunita. Od soboty se tedy internetem šíří build číslo 10036. Jen připomeneme, že ten poslední veřejný z konce letošního ledna má označení 9926.
+
+Nová instalace
+Uniklý build je docela hezkým sumářem všech drobných změn, o kterých jsme v posledních měsících psali. Kosmetických úprav si tedy všimnete již během samotné instalace s upravenými dialogy a upoutávkami na asistenční službu Cortana nebo třeba připojením do podnikové cloudové infrastruktury.
+
+884107758 871510601 866037522 596660121
+Kosmeticky upravená instalace v nových barvách. OneDrive, Cortana, určení, jestli se jedná o soukromý, nebo podnikový (doménový) počítač a konečně přihlášení k účtu.
+
+
+Nová přihlašovací obrazovka
+Další novinku objevíte hned po posledním instalačním restartu a zobrazení přihlašovacího okna, které se také od ledna dočkalo úprav a obrazovce nyní vévodí váš kulatý avatar a v levém dolním rohu seznam případných dalších uživatelů počítače.
+
+548048321 926456649 365911623
+Nová přihlašovací obrazovka s kulatým avatarem a seznamem uživatelů PC
+Lehce transparentní nabídka Start
+Potvrdila se také transparentní nabídka Start. Tu na svých snímcích Microsoft ukázal již v lednu, do tehdejšího veřejného sestavení se ale nedostala. Bohužel zatím stále chybí možnost nabídku Start jakkoliv pokročile nastavit včetně úpravy míry průhlednosti, která je velmi nízká. V konfiguraci hlavního panelu sice objevíte tlačítko pro úpravu nabídky, stejně jako v lednu je ale stále zašedlé a nefunkční.
+
+840576523
+Velmi slabě průhledná nabídka Start
+Nový (ale kritizovaný) koš
+V sestavení 10036 samozřejmě nechybí ani ta nejdiskutovanější novinka, ačkoliv se jedná spíše o banalitu. Nejnovější Windows 10 Technical Preview má opravdu novou ikonu koše! Po dlouhých osmi letech, tu dosavadní totiž Microsoft nakreslil pro Windows Vista. Jenže se strhl povyk, komunitě se totiž ikona nelíbí, je prý příliš jednoduchá a zvládl by ji údajně každý načmárat v Malování. Vyzkoušejte to, a když tak nám dejte vědět v diskuzi pod článkem.
+
+678891199 360182037
+Nový koš
+Nových ikon je stále málo. Redmonde, přidej!
+Microsoft mimochodem doposud překreslil jen relativně malé množství ikon. Máme tedy nové základní ikony souborů, složek, zařízení (počítače, pevný disk aj.) a teď i koše, ale klíčová systémová knihovna s ikonami (Windows\System32\imageres.dll) stále skrývá okolo dvou set starých ikon, které svou stylizací k novému designovému jazyku vůbec neladí.
+
+159061857
+Obsah systémové knihovny s ikonami imageres.dll. Jak vidno, je to stále guláš stylů z Windows Vista/7, Windows 8 a nyní Windows 10.
+Nová síťová nabídka
+Minulý týden se na internet dostalo i pár snímků, které znázorňovaly nové menu pro výběr sítě k připojení. I to je součástí uniklého sestavení 10036. Když tedy klepnete na ikonu sítě, zobrazí se panel se seznamem sítí k připojení.  My jsme měli Windows 10 pouze ve VirtualBoxu bez adaptéru Wi-Fi, čili v seznamu svítí jen ethernetový adaptér.
+
+165955889 546632962
+Po klepnutí na zástupce sítě v oznamovací oblasti se nyní neotevře rovnou konfigurace, ale nejprve zobrazí rychlý seznam s aktuálním připojením a případně výběrem Wi-Fi. My zkoušíme Windows 10 na virtuálním počítači bez Wi-Fi, čili žádné sítě vyjma LAN nevidíme.
+Nový „Microsoft BitTorrent“?
+Čerstvou novinkou poslední verze je také nový způsob stahování aktualizací. Ty se budou ve výchozím stavu stejně jako doposud stahovat ze serverů Microsoftu, v konfiguraci ale najdete nový dialog, ve kterém můžete aktivovat stahování aktualizací i z ostatních počítačů v síti LAN a veřejného internetu.
+
+160795699 288360889
+Stahování aplikací a aktualizací z více zdrojů – od Microsoftu i ostatních počítačů
+To v praxi znamená, že Microsoft začne k distribuci používat vlastní systém P2P. Redmondská korporace si ostatně pro tyto účely v roce 2013 koupila společnost Pando Networks, která se zabývá P2P technologiemi.
+
+Z každého počítače s Windows 10 se tedy nejspíše stane jeden člen obří P2P sítě a všichni budou navzájem šířit nové systémové záplaty, aniž by byly servery Microsoftu krátkodobě silně přetížené. Zvláště efektivní by to mohlo být v podnicích, kdy se aktualizace jako virus rozšíří z jednoho počítače na druhý a zátěž internetové linky bude o to nižší. Nelze než doufat, že Microsoft zapracoval na bezpečnosti a v dohledné době se neobjeví vir, který bude skrze tento systém distribuovat vlastní smetí. 
+
+Není insider jako insider
+Windows 10 Technical Preview není úplně zdarma. Každý, kdo jej instaluje, se přihlašuje do programu Insider, ve kterém nezávazně slibuje, že bude spolupracovat na vývoji, odhalovat a hlásit chyby a odpovídat na otázky, na které se bude systém skrze notifikace čas od času ptát. K tomu všemu slouží aplikace Insider Hub, troufám si ale tvrdit, že ji většina insiderů nevěnuje příliš pozornosti. Teď možná bude, součástí sestavení 10036 je totiž verze Hubu se statistikou.
+
+16494955
+Kolik jste nahlásili chyb a splnili úkolů? Microsoft doufá, že motivuje jednoduchou gamifikací
+A insideři chyby skutečně hlásí. Potvrzuje to i šéf testovacího programu Gabriel Aul na svém Twitteru. Komunita už zaslala milion hlášení.
+
+
+Vylepšený tabletový režim
+Microsoft již ve starších sestaveních představil tabletový režim. Když bude Windows 10 na hybridním notebooku s připojenou klávesnicí, bude se chovat jako běžný desktop. A když klávesnici odpojíte, nebo třeba přetočíte do tabletu, přepne se do režimu lépe optimalizovaného pro dotyky. Verze 10036 nyní umožňuje nastavit, jak se toto přepínání má chovat. Systém při odpojení klávesnice zůstane buď netknutý, zeptá se, jestli má prostředí přepnout, nebo jej přepne zcela automaticky.
+
+591600435
+Lepší nastavení tabletového režimu (dříve Continuum)
+Vylepšené virtuální plochy
+Drobných vylepšení se dočkal i správce virtuálních ploch. V nastavení můžete například určit, jestli se mají na hlavním panelu zobrazovat všechna otevřená okna napříč virtuálními plochami, nebo jen z té aktuální.
+
+881846153
+Nastavení hlavního panelu
+222652027 982901573
+Mám dvě virtuální plochy. Na jedné je otevřený Průzkumník a na druhé Internet Explorer. Na hlavním panelu jsou ale vždy označená jen otevřená okna z aktuální plochy, nikoliv ze všech jako doposud.
+Lepší správce aplikací
+Drobných úprav v systému je samozřejmě mnohem více a komunita je teprve pořádně dokumentuje. Všimla si i vylepšeného správce nainstalovaných aplikací v moderním nastavení. Tamní seznam konečně obsahuje jak univerzální aplikace z Windows Storu, tak ty klasické desktopové, které lze i touto cestou odinstalovat. Už tedy zbývá jediné – dostat klasické desktopové aplikace do Windows Storu a tedy sjednotit instalační proces. Ve Windows 10 se toho s největší pravděpodobností nedočkáme, ale později snad už ano. Tedy pokud nebude Microsoft jako doposud doufat spíše v to, že vývojáři přestanou vyvíjet klasické desktopové aplikace a vrhnou se čistě na ty univerzální.
+
+329631377 452767758
+Moderní správce aplikací konečně eviduje nejen programy z Windows Storu, ale i ty desktopové. Můžete je tedy konečně všechny spravovat na jedné hromadě.
+Takový je tedy na první pohled Windows 10 10036. Rozhodně není určený pro ostré nasazení – chybí v něm některé aplikace a čas od času něco přestane fungovat – třeba nabídka Start. Jedná se opravdu výhradně o interní testovací build a insiderům tedy vřele doporučujeme počkat na standardní aktualizaci. Snad se jí dočkáme opravdu už v nejbližších dnech. Více na: http://www.zive.cz/clanky/vyzkouseli-jsme-nejnovejsi-unikly-build-windows-10/sc-3-a-177543/default.aspx#utm_medium=selfpromo&utm_source=zive&utm_campaign=copylink

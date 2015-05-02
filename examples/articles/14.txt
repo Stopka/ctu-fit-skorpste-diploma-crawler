@@ -1,0 +1,74 @@
+Proč má Google problém
+
+Autor: Jan SedlákJan Sedlák Vytisknout vytisknout  |  textová verze  |  velikost písma  ++++++
+Google je stále vlivným obrem, kterému rostou tržby a který vládne internetové reklamě. Mimo ní už toho ale moc nemá a je otázkou, zda se stroj nezadrhne.
+
+Z Googlu se v budoucnu může stát ještě větší, mocnější a bohatší společnost, než jakou je dnes. Když uspěje alespoň část z jeho výzkumných projektů typu samoříditelná auta, všudypřítomný rychlý internet, roboti, umělá inteligence a podobně. Do té doby ale musí vyřešit to, co jeho velikost, rychlá konkurence a dohled státních regulátorů přináší.
+
+„Ne všude vládne ta slavná pohodová atmosféra. Google vznikl jako naprosto liberální společnost, kterou si zamilovali skoro všichni, včetně vlády. Jenže teď už jsme tak velicí, že už prostě nelze uniknout dohledu regulátorů a vlád a není možné na vše fungovat úplně pružně. Jednou to přijít muselo,“ říkají v sídle Googlu v Mountain View zaměstnanci Googlu, se kterými Connect.cz hovořil.
+
+V domovských Spojených státech je Google stále relativně volným podnikem, i když i tam se hojně debatuje o jeho velikosti, vlivu a nakládání s hromadou informací, které sbírá o uživatelích. Výdaje Googlu na lobbing a kancelář ve Washingtonu ostatně každoročně narůstají. Mnohem větší problémy ale slavný podnik registruje v zahraničí. V Číně už v podstatě neexistuje delší dobu, stahuje vývoj z Ruska (což ještě nemusí být vše), Brazílie se nijak dobře netváří a patří k hlavním hybatelům odboje proti sledovacím taktikám NSA a Spojených států. Vůbec největší problémy ale způsobuje Evropa.
+
+Rozdělit na dvě firmy
+Starý kontinent už dříve ukázal, že velkým americkým podnikům dokáže zatopit a že se jejich velikosti nezalekne. Příkladem budiž Microsoft, který před nástupem Googlu zastával ve světě podobnou roli. Microsoft věřil, že vše dělá správně a že se evropští vladaři mýlí. Steve Ballmer ostatně před Evropskou komisí popisoval, jak jeho firma dělá neuvěřitelnou magii. Poté ovšem přišla řada regulačních opatření a Redmond se okusil magii, kterou vládnou byrokraté v Bruselu.
+
+Google_prot_GoogleSelfDrivingCars_project.jpg
+Uvedeme to někdy do praxe a vydělá nám to peníze?
+S Microsoftem si je Google podobný také v další věci. Zatímco Google vzniknul jako velice otevřená společnost, která miluje open source aplikace a otevírá se komunitě, Microsoft byl pravý opak a naopak těžil ze své uzavřenosti. Nyní se ovšem role obrací, a zatímco Microsoft se pod Satyou Nadellou stále více otevírá, Google je rok od roku uzavřenější a tajemnější.
+
+V Evropě dokonce zaznívají hlasy, že by se Google měl rozdělit na dvě tak, aby nebyl tolik dominantní. Nový eurokomisař pro digitální agendu Günther Oettinger chce oslabit vliv amerických firem a také u ostatních komisařů je Google první na ráně. Google se v Evropě snaží rozvíjet takzvaný pozitivní lobbing, v rámci kterého otevřel výzkumná a vývojová centra, na vysokých školách platí výzkumy, studentům stipendia a tak dále. Bývalý šéf Googlu a jeho dnešní „vrchní lobbista“ Eric Schmidt má dost možná nejtěžší práci v celé firmě.
+
+Kde už vyhledávání nestačí
+Dohledy států jsou ale pouze jednou frontou, kde se úplně vše nedaří podle představ. Příjmy Googlu v posledních měsících začaly vykazovat nejnižší růst za posledních šest let. Podnik i tak v celkových tržbách meziročně rostl o více než 19 procent, zpomalení ale ukazuje, že i na takového obra zřejmě někde čeká strop.
+
+Brazil_Launch.jpg
+Project Loon aneb další z mnoha snah Googlu přejít do nových oblastí.
+Problém je v tom, že Googlu začaly padat tržby z takzvané PPC reklamy, kdy se platí za jednu kliknutí. Tyto reklamy Google používá zejména ve svém zcela zásadním produktu – vyhledávání. Dlouholetý tahoun se může zadřít s tím, jak do hry stále ve větším měřítku přichází mobilní služby a aplikace. Tam už tolik Googlem vynalezená forma reklamy nefunguje.
+
+Google sice stvořil Android a nepřímo na něm ze služeb a podobně generuje slušné peníze, na příjmy z tradičního webového hledání to ale nestačí. Navíc, lidé na mobilních zařízeních často nepoužívají internet stejným způsobem, jako na tradičním počítači. K mnoha službám jsou dostupné přímo samostatné aplikace. V Mountain View rovněž nepochopitelně minuli rozvoj chatovacích aplikací typu WhatsApp a podobně.
+
+Google se snaží ve svém vyhledávání agregovat vše možné, chytré telefony a smartphony ale tyto snahy rozdrobují. Vedení Googlu už samo uvedlo, že v internetovém hledání považuje za větší konkurenci Amazon, než třeba Bing od Microsoftu či Yahoo. Uživatelé totiž nechodí produkty hledat na Google tak často a v takovém množství, jako přímo na Amazon. Podobných příkladů a mobilních alternativ je více.
+
+Peníze pro další dravce
+Amazon dělá problémy i jinde. Před pár měsíci vyhrál v souboji s Googlem o odkup služby Twitch. Ta vyšla na dvě miliardy dolarů a Googlu teoreticky mohla pomoci odchytit něco, čemu se dá přezdívat „televize budoucnosti“. Twitch ve Spojených státech generuje zhruba polovinu živého streamovaného videa z internetu, zatímco třeba CNN patří ani ne procento. Může to být trend jedné dospívající generace, ale také nemusí. Hráči videoher mohou pomocí Twitche vysílat průběh svého hraní a vše komentovat. Hry jsou rychle rostoucí fenomén a byznys po celém světě, což pro Google mimo jiné znamená to, že mu Twitch bere publikum a inzertní příjmy z YouTube. Nedávné informace navíc ukazují, že YouTube Googlu negeneruje skoro žádný zisk.
+
+profimedia_0138017403.jpg
+Foto: Profimedia
+Peníze, které by jinak mířily do Googlu, si vedle Amazonu berou také jiní. Mobilní reklama začala velice dobře fungovat na Facebooku a Twitteru. Mark Zuckerberg proto chce do tohoto mixu přidat také video. Tím by opět nahlodal byznys z YouTube. Potenciál je tu značný, vedle Facebooku totiž disponuje také stále rostoucím Instagramem. Zatímco Facebook dokázal z mobilní reklamy udělat stěžejní část svých příjmů, Google tady výrazně zaostává a nic takového se mu nedaří.
+
+Google se ani na několikátý pokus nedokázal v sociálních sítích uchytit a jeho Google+ upadá do zapomnění. Jenže právě na sociálních sítích se odehrává budoucnost internetové reklamy. Google ve vyhledávání a dalších produktech zobrazuje kontextové reklamy, sociální sítě ale umožňují inzerentům pracovat také se značkou (brandem). Google+ na druhou stranu pomohl ve sbírání uživatelských dat a jejich sjednocování.
+
+Facebook a další navíc Googlu sráží marže. Do hry v budoucnu může zásadně promluvit i další hráč. Zatímco Facebook díky statusům a dalšímu obsahu ví, co uživatelé dělali v minulosti či co mají rádi, což Google v podstatě kopíruje, jedna služba bude vědět, co lidé budou chtít koupit v budoucnu. Pinterest funguje jako elektronická nástěnka, kam si lidé připínají věci, co se jim líbí. Existuje zde tedy vysoká pravděpodobnost, že si tyto věci budou chtít pořídit. Správně zamířená reklama může mít mnohem větší účinnost, než ta, kterou dnes nabízí konkurence. Je dobré umět předpovídat budoucnost.
+
+Nové vedení
+Nynější šéf Googlu Larry Page podle informací z nitra společnosti už nějakou dobu nebyl spokojený s tím, kam jeho podnik směřuje. V hierarchii tak vytáhl nahoru Sundara Pichaie, pod kterého nyní spadá mnoho klíčových produktů společnosti. Pichai dostal na starost exekutivní záležitosti a Page se má více soustředit na strategické vize a myšlenky. Page se podle zdrojů bojí toho, že inovativní myšlení a chod Googlu upadá a že může v budoucnu zmizet. Hlavní šéf chce díky Pichaiovi sjednotit produktové vedení a soustředit se na větší vizi celé společnosti.
+
+7457645618_1c7dcd0523_o.jpg
+Projekt, který se jen tak masovou záležitostí nestane. Jako mnohé další.
+Strategické myšlení ale může sehrát zásadní roli do budoucna. Google je pořád zde a pořád je neuvěřitelně silný. Díky datům, které sbírá, může vytvořit samostatné a inteligentní budovy, auta bez řidiče, osobní robotické asistenty a mnoho dalšího. Page s Brinem často kroutí hlavami nad tím, že je lidé nechápou. Oni skutečně věří tomu, že by otravnou práci měli dělat roboti a že není důvod denně dvě hodiny sedět za volantem, když to lépe zvládne odřídit inteligentní systém a člověk si tak třeba může číst. Pokud možno samozřejmě e-book koupený na Google Play zobrazovaný na tabletu s Androidem.
+
+Google i kvůli těmto vizím navyšuje investice do výzkumu a vývoje – v posledním kvartálu šlo konkrétně o částku navýšenou na 2,8 miliardy dolarů. Firma se snaží stavět technologie budoucnosti, čehož chce dosílit i skrze řadu zajímavých akvizic, prozatím ale žádnou z těchto žhavých novinek nedokázala přetavit do funkčního byznysu. Zhruba 90 procent tržeb Googlu stále tvoří reklama a drtivá většina pak pochází z tradičního vyhledávače.
+
+Brin s Pichaiem často hovoří o budoucnosti více obrazovek. Jinými slovy chtějí Android dostat i do televizí a dalších strojů. Zrovna televize jsou ovšem příklad toho, jak to vůbec nemusí být lehké. Výrobci televizí si raději chystají systémy vlastní, protože nechtějí být, stejně jako výrobci smartphonů, pouhými montovnami krabiček. Chtějí mít obsah, na kterém vydělají.
+
+Přetavit to
+Tady proti Googlu vystupuje také možné omezení síťové neutrality. Internetoví poskytovatelé se hněvají, že firmy typu Google vydělávají na obsahu, který oni musí doručovat ve výborné kvalitě. Pokud spory vyhrají, budou chtít po dodavatelích obsahu desátky.
+
+ 
+Google jen těžko zmizí, stejně jako nezmizel Microsoft. Jeho role už ale nemusí být taková.
+ 
+Google je i přes nové překážky stále velice lukrativní záležitostí. „Google mezi našimi studenty platí za nejvíce atraktivního zaměstnavatele tady v Silicon Valley,“ říká v rozhovoru pro Connect.cz prezident San José State University Mohammad Qayoumi. Jeho škola je největší státní univerzitou ve Spojených státech a dodává mozky do celého Silicon Valley. Důležité je ovšem to, co Qayoumi na toto téma dodává: „Ale stále větší zájem je také o Facebook a další, v podstatě o generaci mladší firmy.“
+
+Google je i nadále ekonomicky neuvěřitelně silný a jen těžko by se mohlo stát, že zmizí, stejně jako nezmizel Microsoft. Firmě jen za poslední rok narostly tržby o 19 procent a zisk se usadil na více než 14 miliardách dolarů. Akcie nicméně klesly o téměř šest procent.
+
+Nezdá se, že by Google chtěl spadnout a opakovat historii Microsoftu (který se naopak začíná zvedat). Obrovské příjmy umožňují investovat do technologií budoucnosti, ze kterých by jednou mohlo něco vzejít. Jenže v tom případě Google musí projevit větší schopnost dovést tyto výrobky na masový trh. Někdy je na to prostě ještě brzy, ať už technicky či obchodně, a někdy se takové věci daří lépe zejména Applu (třeba placení mobilem). Xerox měl v minulosti také skvělé projekty, na trh s nimi ale vždy přišel někdo jiný.
+
+I mimo reklamu
+S prodejní exekutivou toho, co jde mimo tradiční reklamu, na tom Google není úplně nejlépe. Výrobky Nexus například nikdy nepřekročily stín možného potenciálu a Chromecast doposud není běžným zbožím na všech trzích. Firemní zákazníci Google Apps sice rostou, v této oblasti ale jasně v poslední době přebral otěže Microsoft a svůj Office 365 hrne ve velkém. Určitou těžkopádnost Googlu je možné vidět i v občasné neohrabanosti a pomalosti dříve svižného prohlížeče Chrome.
+
+ 
+Obří příjmy z reklamy Googlu mohou pomoci k tomu vytvořit byznys zcela nový.
+ 
+Poslední měsíce ukazují nástup Chromebooků, které už veřejně za hrozbu tradičních počítačů označil i Microsoft. Tyto levné cloudové počítače ovšem stále jako by na něco čekaly. Jejich šíření není žádná masová vlna a neustále se argumentuje tím, že vše chce čas a doba na ně musí uzrát.
+
+V Googlu mnohé z těchto problémů vidí a i když to skrze korporaci není vždy jednoduché, budou tu snahy o zlepšení situace. Obří reklamní byznys aktuálně dokáže vytvářet prostředí pro experimentování s novými technologiemi. Z nich každopádně jednou musí vzejít nějaká, která celou firmu přenese někam dál.
